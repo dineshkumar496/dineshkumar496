@@ -1,14 +1,14 @@
 
 
 <h1 align="center"> Hi there 👋, I'm DineshKumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
-- 🌱 I’m currently learning ...ReactNative
+- 🌱 I’m currently learning ...Ruby on Rails
 
-- 🔭 I’m currently working on **Chatting Application using Reacjs and firbase**
+- 🔭 I’m currently working on **Full stack blog post application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dineshkumar496](https://github.com/dineshkumar496)
 
